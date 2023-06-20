@@ -1,0 +1,28 @@
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.deps.json
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.runtimeconfig.json
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\bin\Debug\net6.0\ref\Project.Entities.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.pdb
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.csproj.AssemblyReference.cache
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.AssemblyInfoInputs.cache
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.AssemblyInfo.cs
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\ref\Project.Entities.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.pdb
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.genruntimeconfig.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.deps.json
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.runtimeconfig.json
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\bin\Debug\net6.0\ref\Project.Entities.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\bin\Debug\net6.0\Project.Entities.pdb
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.csproj.AssemblyReference.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.AssemblyInfoInputs.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.AssemblyInfo.cs
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.csproj.CoreCompileInputs.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\ref\Project.Entities.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.pdb
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Entities\obj\Debug\net6.0\Project.Entities.genruntimeconfig.cache

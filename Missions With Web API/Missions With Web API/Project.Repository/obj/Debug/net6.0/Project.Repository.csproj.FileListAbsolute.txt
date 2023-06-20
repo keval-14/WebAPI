@@ -1,0 +1,34 @@
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.deps.json
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.runtimeconfig.json
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\ref\Project.Repository.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.pdb
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Entities.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Entities.pdb
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.csproj.AssemblyReference.cache
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.AssemblyInfoInputs.cache
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.AssemblyInfo.cs
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.csproj.CopyComplete
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\ref\Project.Repository.dll
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.pdb
+C:\Users\pci60\Desktop\project\3 tier\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.genruntimeconfig.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.deps.json
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.runtimeconfig.json
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\ref\Project.Repository.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Repository.pdb
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Entities.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\bin\Debug\net6.0\Project.Entities.pdb
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.csproj.AssemblyReference.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.AssemblyInfoInputs.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.AssemblyInfo.cs
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.csproj.CoreCompileInputs.cache
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.csproj.CopyComplete
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\ref\Project.Repository.dll
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.pdb
+D:\tatvasoft\training\WebAPI\Missions With Web API\Missions With Web API\Project.Repository\obj\Debug\net6.0\Project.Repository.genruntimeconfig.cache
