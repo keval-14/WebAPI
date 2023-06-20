@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IUc5lrz5gRzvoXeYPUHER4ukPPZzbKutdVCefn5g2TU=",
+  "Source": "SendEmailToUserForBirthday",
+  "BasePath": "_content/SendEmailToUserForBirthday",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

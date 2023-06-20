@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OR5+DuAP6VENVT1jl7kZi9Fw9lTt56cuAh0C2Yz0ONs=",
+  "Source": "SendEmailToUserForBirthday",
+  "BasePath": "_content/SendEmailToUserForBirthday",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
