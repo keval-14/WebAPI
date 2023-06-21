@@ -1,0 +1,109 @@
+﻿Installing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Rolling back assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Installing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Uninstalling assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Uninstalling assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Uninstalling assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+   logtoconsole = 
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.InstallLog
+   assemblypath = D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\WindowsServiceForCallAPI\bin\Debug\WindowsServiceForCallAPI.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.

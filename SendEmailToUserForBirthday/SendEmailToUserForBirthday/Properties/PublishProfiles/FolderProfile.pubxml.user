@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>D:\tatvasoft\20062023</_PublishTargetUrl>
-    <History>True|2023-06-20T11:42:14.3432915Z;False|2023-06-20T17:06:20.2722045+05:30;</History>
+    <History>True|2023-06-21T05:26:05.5268834Z;True|2023-06-21T10:26:10.7071972+05:30;True|2023-06-21T10:02:05.9960511+05:30;True|2023-06-20T17:12:14.3432915+05:30;False|2023-06-20T17:06:20.2722045+05:30;</History>
   </PropertyGroup>
 </Project>

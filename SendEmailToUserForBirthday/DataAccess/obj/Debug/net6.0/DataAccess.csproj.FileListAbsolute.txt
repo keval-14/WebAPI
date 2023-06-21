@@ -11,3 +11,4 @@ D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\DataAccess\obj\Debug\net
 D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
 D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\tatvasoft\training\WebAPI\SendEmailToUserForBirthday\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
