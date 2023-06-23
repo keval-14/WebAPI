@@ -20,7 +20,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "f236543e-a00f-4ad7-9d95-5d13f7b6baa6": {
+      "ProjectGuid": "f236543e-a00f-4ad7-9d95-5d13f7b6baa6",
+      "DisplayName": "WindowsServiceForCallAPI",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
